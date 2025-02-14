@@ -1,0 +1,99 @@
+.
+├── .git
+│   ├── COMMIT_EDITMSG
+│   ├── FETCH_HEAD
+│   ├── HEAD
+│   ├── branches
+│   ├── config
+│   ├── description
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── push-to-checkout.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   └── exclude
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   ├── objects
+│   │   ├── 02
+│   │   ├── 0a
+│   │   ├── 0d
+│   │   ├── 0f
+│   │   ├── 10
+│   │   ├── 11
+│   │   ├── 14
+│   │   ├── 15
+│   │   ├── 1d
+│   │   ├── 1f
+│   │   ├── 22
+│   │   ├── 29
+│   │   ├── 34
+│   │   ├── 3d
+│   │   ├── 51
+│   │   ├── 55
+│   │   ├── 57
+│   │   ├── 60
+│   │   ├── 6b
+│   │   ├── 6f
+│   │   ├── 79
+│   │   ├── 7e
+│   │   ├── 84
+│   │   ├── 8a
+│   │   ├── 91
+│   │   ├── 9a
+│   │   ├── a4
+│   │   ├── aa
+│   │   ├── ae
+│   │   ├── be
+│   │   ├── c0
+│   │   ├── d4
+│   │   ├── d7
+│   │   ├── e4
+│   │   ├── e6
+│   │   ├── fe
+│   │   ├── info
+│   │   └── pack
+│   └── refs
+│       ├── heads
+│       ├── remotes
+│       └── tags
+├── .gitignore
+├── Readme.md
+├── app
+│   └── backend
+│       ├── .dockerignore
+│       ├── .dockerignore:Zone.Identifier
+│       ├── Dockerfile
+│       ├── __pycache__
+│       ├── app
+│       ├── app_streamlit.py
+│       ├── data
+│       ├── docker-compose.yml
+│       ├── domain
+│       ├── main.py
+│       ├── models
+│       ├── requirements.txt
+│       ├── train.py
+│       └── venv
+├── data
+│   ├── penguins_lter.csv
+│   └── penguins_size.csv
+├── docker_comands.txt
+├── estructura.txt
+├── image.png
+└── notebooks
+    └── train.ipynb
+
+59 directories, 37 files
