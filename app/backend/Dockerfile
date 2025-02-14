@@ -1,5 +1,7 @@
 FROM python:3.12.9
 
+# Copiar archivos del proyecto
+WORKDIR /app
 COPY . .
 
 RUN pip3 install --no-cache-dir --upgrade -r requirements.txt
